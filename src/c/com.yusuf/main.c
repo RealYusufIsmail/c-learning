@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    printf("I like Java\n");
+    printf("Its real easy to use");
     return 0;
 }
