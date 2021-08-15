@@ -20,7 +20,9 @@ build
 # other
 eclipse
 run
+*cmake-build-debug
 
 # Files from Forge MDK
 forge*changelog.txt
 .DS_Store
+*.cmake
